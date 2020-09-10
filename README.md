@@ -1,2 +1,2 @@
 # graduationPortfolio
-졸업프로젝트용
+졸업프로젝트
